@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Pacifico&family=Roboto:wght@400;500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Pacifico&family=Roboto:wght@400;500&family=Satisfy&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  font-family: 'poppins',san-serif
+
+}
+h1,h2,h3,h4,h5,h6{
+  font-family:"roboto", sans-serif;
+}
+span{
+  font-family: 'fredoka',sans-serif;
+}
+.fontone{
+  font-family: "Satisfy", cursive;
+}
+
